@@ -1,0 +1,99 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/hw/" . "hw1.src/")
+ ("/" . "Users/")
+ ("/Users/chitradeep/Dropbox/Utah/CS6140-Data Mining/" . "hw/")
+ ("/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/" . "hw/")
+ ("/Users/chitradeep/u0742161/" . "final-project/")
+ ("/Users/chitradeep/.emacs.d/elpa/" . "processing-mode-20141016.1321/")
+ ("/Users/chitradeep/.emacs.d/" . "elpa/")
+ ("/Users/" . "chitradeep/")
+ ("/Users/chitradeep/" . "Dropbox/")
+ ("/Users/chitradeep/Dropbox/Utah/" . "CS6140-Data Mining/")
+ ("/Users/chitradeep/Dropbox/" . "Utah/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/chitradeep/Dropbox/Utah/CS6140-Data Mining/hw/"
+ "/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/hw/hw2/"
+ "/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/hw/hw1.src/"
+ "/Users/chitradeep/Dropbox/Utah/CS6150-Advanced Algo/hws/"
+ "/Users/chitradeep/Dropbox/"
+ "/Users/chitradeep/DM-hw/"
+ "/Users/chitradeep/Android-Coursera/"
+ "/Users/chitradeep/u0742161/final-project/"
+ "/ssh:duttaroy@lab1-10.eng.utah.edu:/home/duttaroy/GRADING/grade/DG/"
+ "/ssh:duttaroy@lab1-10.eng.utah.edu:"
+ "/Users/chitradeep/Documents/TransferFunctions/"
+ "/Users/chitradeep/TransferFunctions/"
+ "/Users/chitradeep/.emacs.d/elpa/processing-mode-20141016.1321/"
+ "/Users/chitradeep/Dropbox/Utah/CS6150-Advanced Algo/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "A2-Sim-Hash.tex"
+ "experiment.tex"
+ "hw2.tex"
+ "experiment1.tex"
+ "hw1.tex"
+ "nearest-neighbors.tex"
+ "decision-trees.tex"
+ "classDM14.sty"
+ "hw-1-soln.tex"
+ "A1-StatPrin-soln.tex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/chitradeep/Dropbox/Utah/CS6140-Data Mining/hw/" (21732 53682 0 0) "img/" "DM-Asm-latex.tex" "D4.txt" "D3.txt" "D2.txt" "D1.txt" "classDM14.sty" "auto/" "A2-Sim-Hash.tex" "A2-Sim-Hash.pdf" "A2-Sim-Hash.out" "A2-Sim-Hash.log" "A2-Sim-Hash.fls" "A2-Sim-Hash.fdb_latexmk" "A2-Sim-Hash.aux" "A2-Sim-Hash-Q.pdf" "A1-StatPrin.pdf" "A1-StatPrin-soln.tex" "A1-StatPrin-soln.pdf" "A1-StatPrin-soln.out" "A1-StatPrin-soln.log" "A1-StatPrin-soln.fls" "A1-StatPrin-soln.fdb_latexmk" "A1-StatPrin-soln.aux" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/" (21732 52852 0 0) "ZinniaChitradeep/" "Utah/" "univs-list" "ssn.txt" "SEC-HWH-2July.pdf" "scripting.pdf" "Screen Shot 2015-01-24 at 1.44.09 PM.png" "review-writing.pdf" "Report.docx" "regex.pdf" "RamNode - Invoice #136124.pdf" "Persuasion, Emotion and Trust.pdf" "p100.open.cormode.pdf" "new-resume/" "nandita-gatech-resume.pdf" "my microsoft experiences.pdf" "MatchCenter_withStats 3.zip" "Massively Sharded MySQL at Tumblr Presentation.pdf" "live/" "Licenses.rtf" "job_questions_experiences.pdf" "info.txt" "Icon
+" "gre-diag.rtf" "grad-app/" "Getting Started.pdf" "engineering universities.doc" "Delta SkyMiles Card.pdf" "cs5470-spring2013-lectures/" "Chitradeep20130927.pdf" "Chitradeep.pdf" "bitcoin.pdf" "AttendanceReport.xlsx" "advcomp-slides/" "98-Predicting-the-Next-Pitch_updated.pdf" "7 Design Decisions.pdf" "3 Some Secret Sharing Schemes and Further Studies - Dr Avishek Adhikari.pdf" "2014Handbook_000.pdf" ".tags_and_ratings.plist" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/" (21725 37219 0 0) "W4400S14_01May14.pdf" "Tom Mitchell ML/" "slides/" "randomprocJan14.pdf" "probnotes-Padhraic-smyth.pdf" "ProbabilityRandomProcessesBook.pdf" "probabilityJan13.pdf" "prob_review.pdf" "prob18.pdf" "NgJordanNIPS2001.ps" "mlss06au_scholkopf_lk.pdf" "matrixid.pdf" "Matrix-cookbook.pdf" "machine-learning-andrewng/" "lnotes.pdf" "LinearAlgebra_Matlab_Review.ppt" "linear_algebra.pdf" "linalg_notes.pdf" "linalg-fernando-paganini.pdf" "LAreview.pdf" "Kallenberg O. Foundations of Modern Probability (Springer,1997)(ISBN 0387949577)(535s).pdf" "intro.pdf" "Information Theory, Inference and Learning Algorithm.pdf" "hw/" "ESLII_print10.pdf" "david-blei-0208.pdf" "CS446-Machine Learning/" "cs229-prob-stanford.pdf" "cs229-linalg-stanford.pdf" "CMU-10-701-Spring11/" "CMU-10-601-Spring12/" "Cinlar E. Probability and stochastics (Springer, 2011)(ISBN 0387878580)(O)(572s)_MV_.pdf" "ciml-v0_9-all.pdf" "book-no-solutions-aug-21-2014.pdf" "Bayesian Reasoning and Machine Learning.pdf" "Applied Probability-lange.pdf" "Aliprantis-Infinite-Dimensional-Analysis.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/hw/" (21730 16724 0 0) "hw2.zip" "hw2.pdf" "hw2/" "hw1.src.tar.gz" "hw1.src.tar copy.gz" "hw1.src/" "hw1.pdf" "hw0.pdf" "badges.tar.gz" "badges/" "adult.zip" "adult/" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/hw/hw2/" (21733 7736 0 0) "requirements.tex" "mistake_bound.tex" "hw2.tex" "hw2.pdf" "hw2.log" "hw2.fls" "hw2.fdb_latexmk" "hw2.aux" "general-instructions.tex" "experiment.tex" "bool_func.tex" "auto/" ".#experiment.tex" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/CS6140-Data Mining/" (21729 32228 0 0) "Syllabus.pdf" "PTE4_1.pdf" "probability_cheatsheet_140718.pdf" "prob.pdf" "prob-solved_2ndedition.pdf" "Performance Modeling and Design of Computer Systems-1107027500.pdf" "Notes/" "introduction_to_probability_and_statistics_using_r.pdf" "Introduction to Probability (gnv64).pdf" "hw/" "hopcroft-kannan-feb2012.pdf" "bookL.pdf" "assignments-s14/" "1466575573-Introduction to Probability-Blitzstein.pdf" "0124079482-Introduction to Probability Models.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/" (21726 22968 0 0) "You Don't Know JS/" "weatherwax_cormen_solutions.pdf" "vi-help.txt" "Think - Downey/" "thesis.pdf" "Theory Toolkit/" "Theory Of Probability MIT-Sp14/" "Theory of Computation-sariel.pdf" "terence_tao_solving_mathematical_problems_a_personal_perspective_second_edition__2006.pdf" "Suresh-SOS-fridays/" "Suresh-IS/" "Stroustrup_Principles_and_Practice_Using_C++_2ed_2014.pdf" "STATS-110/" "resume-chitradeep.pdf" "Reg Model/" "QuikPAY(R) Print Payment Receipt.pdf" "Python Algorithms.pdf" "Programming Interviews Exposed, 3rd Edition.pdf" "Probability-Vardhan-NYU/" "prob-tutorial.pdf" "Principles of Parallel Algorithms and Programming.pdf" "Paper/" "Order Receipt _ University of Utah - College of Engineering - VMware _ Academic Software Discounts.pdf" "Object-Oriented-JavaScript.pdf" "numerical-linear-algebra-trefethenbau.pdf" "mpi-ss.rtf" "might2014lambda-slides.pdf" "Matters Computational Ideas Algorithms Source Code-fxtbook.pdf" "Mathematics for Computer Science-10Jan2013.pdf" "marsland.ml-alg-perspect.09.pdf" "Linear Algebra-JH.pdf" "linalg-tutorial.pdf" "latex-guides.zip" "knuth/" "jhanswer.pdf" "Introduction_to_Algorithms_Cormen.pdf" "Introduction to Matrix Methods and Applications.pdf" "imm3274.pdf" "ideals-varieties-and-algorithms.pdf" "HealthInsuranceCard.pdf" "GSIGS_Unit 1_Culture.pdf" "gradhandbook2014-15-v1.pdf" "git_ppt.pdf" "gilbertstrang-linearalgebraanditsapplications4ed-brookscole2005-130506150843-phpapp02.pdf" "generating-functions.pdf" "FY15 Candidate Application_Software.docx" "fourier.pdf" "emac-config.zip" "Eloquent_JavaScript.pdf" "dm-stat.pdf" "datatrack.pdf" "Data Structures and Algorithms in Python.pdf" "CS6965-Big Data/" "CS6810-Computer Architecture/" "CS6630-Visualization/" "CS6460.zip" "CS6460/" "CS6350-Machine Learning/" "CS6150-Advanced Algo/" "CS6140-Data Mining/" "CS4400 Computer Systems-TA/" "CS4150-Algorithm/" "CS106L-14/" "CS106BX-Reader.pdf" "cs-4400.zip" "cheat.pdf" "Calculus-Strang.pdf" "book-rev8.pdf" "apS.pdf" "apM.pdf" "apF.pdf" "Analysis-Of-Boolean-Functions-version1-01-by-Ryan-ODonnell.pdf" "AMLBook/" "Advanced Data Analysis from an Elementary Point of View.pdf" "academic-calendar-2014-15.pdf" "A Walk Through Combinatorics - An Introduction to Enumeration and Graph Theory, 2nd Ed.pdf" "A Smarter Way to Learn Javascript/" "A Modern Introduction to Probability and Statistics-Understanding Why and How.pdf" "[Thomas_H._Cormen,_Charles_E._Leiserson,_Ronald_L.pdf" "[Robert_E._Schapire]_The_design_and_analysis_of_eff algo.djvu" "[Khuller_S.]_Design_and_analysis_of_algorithms.pdf" "[Harrington]_Hands-on_Python_Tutorial(BookZZ.org).pdf" "[Hanan_Samet]_Foundations_of_Multidimensional_and_(BookZZ.org).pdf" "[Gayle_Laakmann_McDowell]_Cracking_the_Coding_Inte(BookZZ.org).pdf" "[Dexter_C._Kozen]_The_design_and_analysis_of_algo.djvu" "[Adnan_Aziz,_Tsung-Hsien_Lee,_Amit_Prakash-]_Eleme(BookZZ.org).pdf" "1617290750Single.pdf" "1491903996.pdf" "1330136305-NetworksAnIntroduction.pdf" "10.1.1.210.2605.pdf" "10-jhu2.pdf" "10-jhu1.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/" (21730 44084 0 0) "xcode-themes/" "u0742161/" "storybox/" "spark-training/" "spark/" "shrink_graph.py" "reg.txt" "Qt5.4.0/" "Public/" "Pictures/" "output.rtf" "Numpy.ipynb" "notes1.rtf" "NonDecreasing.zip" "nonDecreasing.cpp" "NonDecreasing/" "Music/" "Movies/" "ML-hw/" "matrix/" "matlab-tuts.txt" "Library/" "LetterDraft1.pdf" "LetterDraft.pages" "latex-guides/" "lab5-handout/" "kaggle/" "java_workspace/" "imgs/" "github/" "eclipse/" "Dropbox/" "Downloads/" "Documents/" "document.pdf" "DM-hw/" "DFS.pptx" "Desktop/" "coursera-android/" "bitbucket/" "badges.txt" "badges-train.csv" "badges-test.csv" "Applications/" "AndroidStudioProjects/" "Android-Coursera/" "6.00x/" ".zshrc" ".viminfo" ".Trash/" ".swt/" ".subversion/" ".sts/" ".ssh/" ".spotflux/" ".spark_history" ".rstudio-desktop/" ".Rhistory" ".python_history" ".matplotlib/" ".matlab/" ".ipython/" ".ipynb_checkpoints/" ".idlerc/" ".hgignore_global" ".gvm/" ".groovy/" ".gradle/" ".gitignore_global" ".gitconfig" ".enstaller4rc" ".emacs.d/" ".DS_Store" ".dropbox/" ".designer/" ".config/" ".CFUserTextEncoding" ".canopy/" ".bashrc" ".bash_profile.pysave" ".bash_profile" ".bash_history" ".android/" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/CS6350-Machine Learning/hw/hw1.src/" (21714 61757 0 0) "vornoi2.png" "vornoi1.png" "nearest-neighbors.tex" "hw1.tex" "hw1.pdf" "hw1.log" "hw1.fls" "hw1.fdb_latexmk" "hw1.aux" "general-instructions.tex" "experiment1.tex" "experiment.tex" "decision_tree_badges.png" "decision-trees.tex" "ballon_id3.png" "auto/" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/DM-hw/" (21706 47762 0 0) "hw0.py" "filesave.pyc" "filesave.py" "CouponCollector.png" "coupon.py" "coupon.cpp" "coupon-cum.png" "birthday.py" "Birthday.png" "birthday.cpp" "Birthday-runtime-plot.png" "a.out" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/CS6150-Advanced Algo/hws/" (21705 31081 0 0) "line.pdf" "hw-5-soln.tex" "hw-5-soln.out" "hw-5-soln.log" "hw-5-soln.fls" "hw-5-soln.fdb_latexmk" "hw-5-soln.aux" "hw-5-soln-chitradeep.pdf" "hw-4-soln.tex" "hw-4-soln.pdf" "hw-4-soln.out" "hw-4-soln.log" "hw-4-soln.fls" "hw-4-soln.fdb_latexmk" "hw-4-soln.aux" "hw-4-soln-chitradeep.pdf" "hw-4-soln 2.tex" "hw-4-soln 2.pdf" "hw-4-soln 2.out" "hw-4-soln 2.log" "hw-4-soln 2.fls" "hw-4-soln 2.fdb_latexmk" "hw-4-soln 2.aux" "hw-3-soln.tex" "hw-3-soln.log" "hw-3-soln.fls" "hw-3-soln.fdb_latexmk" "hw-3-soln.aux" "hw-3-soln-chitradeep.pdf" "hw-2-soln.tex" "hw-2-soln.log" "hw-2-soln.fls" "hw-2-soln.fdb_latexmk" "hw-2-soln.aux" "hw-2-soln-chitradeep.pdf" "hw-1-soln.tex" "hw-1-soln.log" "hw-1-soln.fls" "hw-1-soln.fdb_latexmk" "hw-1-soln.aux" "hw-1-soln-chitradeep.pdf" "auto/" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/Android-Coursera/" (21690 62346 0 0) "TheActivityClass.zip" "dummy.txt" "DevelopmentEnvironment.zip" "DevelopmentEnvironment/" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/u0742161/final-project/" (21654 40235 0 0) "yelp_restaurant_lovers_list.txt" "yelp_filtered_graph_foodie.txt" "triangles.txt" "src/" "shrink_graph.py" "build.gradle" "build/" "bin/" ".settings/" ".project" ".gradle/" ".gitignore" ".classpath" "../" "./")
+
+ ("/Users/chitradeep/Dropbox/Utah/CS6150-Advanced Algo/" (21651 35505 0 0) "Vit.IO_book.pdf" "variance-notes.pdf" "url" "tirgul_3.pdf" "theory2_sol.pdf" "The_Probabilistic_Method.pdf" "The Design of Approximation Algorithms.pdf" "tcscheat.pdf" "T-79_4202_lecture_6.pdf" "T-79_4202_lecture_5.pdf" "T-79_4202_lecture_2.pdf" "summary_contribution_chitradeep.pdf" "StringEditDistance.pdf" "Stanford University ACM Team Notebook (2013-14).html" "stable.pdf" "sol7.pdf" "skip-graphs-soda03.pdf" "skip-graphs-journal.pdf" "sigcomm_tutorial.ppt" "Scheduling Theory Algorithms and systems.pdf" "Scheduling Algorithms 5th Ed - Peter Brucker (2007).pdf" "sariel.pdf" "s3_2.pdf" "s3.pdf" "Rosen_SSG_CommonMistakes.pdf" "refs/" "rec1016.txt" "Randomized II/" "Randomized I/" "pseudocode.pdf" "probprimer1.pdf" "Problems on Algorithms.pdf" "probability and computing _mitzenmacher_upfal.pdf" "papers/" "paper_selection.tex" "paper_selection.pdf" "paper-reading-technical.pdf" "p83-cherkassky.pdf" "p753-arora.pdf" "p652-sleator.pdf" "p596-fredman.pdf" "P-2-1-G4.pdf" "notesprob.pdf" "NewMasterTheorem.pdf" "MyHoa_Dec2010.pdf" "mst.pdf" "mozes.pdf" "MIT6_046JS12_Notes.pdf" "Maximum-flow-solution.pdf" "max-flow-applications-4up.pdf" "matroid-notes.pdf" "matousek-vondrak-The Probabilistic Method.pdf" "matchings.pdf" "matchingNotes.pdf" "MasterTheorem-HandoutNoNotes.pdf" "m3.pdf" "linearProgramming.pdf" "line.pdf" "lectures.pptx" "lectures.pdf" "Lectures on Algorithmic Game Theory.pdf" "lecture_41_recurrence_relations.pdf" "lecture_40_generating_functions.pdf" "lecture-22-network-flow-applications.pdf" "lecture-15-dynamic-programming.pdf" "lects11-20.pdf" "lects1-10.pdf" "lec3.pdf" "latex-homework-template-master.zip" "latex-homework-template-master/" "latex-guide-cos423.pdf" "latest-r1991.zip" "latest-r1991/" "L-11-fibonacci heaps.pdf" "kleinberg-tardos book.pdf" "Iterative Methods in Combinatorial Optimization.pdf" "induction.pdf" "i9234.pdf" "hws/" "hw5sol-official.pdf" "hw5-solutions.pdf" "hw5-sol.pdf" "hw4-sol.pdf" "hw3-sol.pdf" "hw1_selectedProblems.pdf" "hw1_good.pdf" "hw-template-mit.tex" "hw-5-soln.tex" "hw-5-soln.pdf" "hw-5-soln.out" "hw-5-soln.log" "hw-5-soln.fls" "hw-5-soln.fdb_latexmk" "hw-5-soln.aux" "hw-4-soln.tex" "hw-4-soln.pdf" "hw-4-soln.out" "hw-4-soln.log" "hw-4-soln.fls" "hw-4-soln.fdb_latexmk" "hw-4-soln.aux" "hw-3-soln.tex" "hw-3-soln.pdf" "hw-3-soln.log" "hw-3-soln.fls" "hw-3-soln.fdb_latexmk" "hw-3-soln.aux" "hw-2-soln.tex" "hw-2-soln.pdf" "hw-2-soln.log" "hw-2-soln.fls" "hw-2-soln.fdb_latexmk" "hw-2-soln.aux" "hw-1-soln.tex" "hw-1-soln.pdf" "hw-1-soln.log" "hw-1-soln.fls" "hw-1-soln.fdb_latexmk" "hw-1-soln.aux" "headsol.pdf" "Handbook of Exact String Matching Algorithms - Christian Charras, and Thierry Lecroq, College Publications (2004).pdf" "Gusfield97_FourRussians.pdf" "gfologyLinked2.pdf" "frechet.ps" "Foundations of Computer Science C Edition - Alfred V. Aho and Jeffrey D. Ullman (1994).pdf" "flow_applics.pdf" "flow/" "final_report_zinnia_chitradeep.pdf" "Fibonacci.pdf" "ex7.pdf" "euclid.bams.1183519147.pdf" "editmoves-soda02.ps" "DynamicProgramming2012.ppt" "Dynamic_Programming.pdf" "Dynamic-Programming.pdf" "dy_birth.pdf" "Design and Analysis of Approximation Algorithms - Springer.pdf" "Data_Streams_-_Algorithms_and_Applications.pdf" "cs573-master/" "CS369-DynamicProgramming.pdf" "cs361b-notes.pdf" "cs261-Jan2014-notes.pdf" "cs-750-all-talks.pdf" "CS-573-UIUC-sariel.pdf" "CS-473g Algorithms.pdf" "CRCbook_chapter18.pdf" "CourseNotesMAD2104.pdf" "Computer Algorithms - Ellis Horowitz and Sanguthevar Rajasekaran (1997).pdf" "ComboNoteswHints11-06-04.pdf" "Combinatorial Optimization-Networks and Matroids.pdf" "cmsc451-fall13-lects.pdf" "cmsc451-fall13-handouts.pdf" "CM2.pdf" "ClosestPair.pdf" "Class notes for Randomized Algorithms-Sariel.pdf" "ciml-v0_9-all.pdf" "Chap3_Probability_v04.pdf" "cakes-cutting.pdf" "Building Blocks of Theoretical CS-whole-book.pdf" "BookOfProof.pdf" "book_src.zip" "book_src/" "big_o.pdf" "BFPRT73.pdf" "auto/" "assign.cls" "Art_Gallery_Full_Book.pdf" "approx.pdf" "approx-alg-notes.pdf" "An Introduction to the Analysis of Algorithms - Michael Soltys, World Scientific Publishing (2012).pdf" "all-notes-2010 Optimization Paradigms.pdf" "Algorithms-everything-Jeff Erickson.pdf" "algorithms-dasgupta_vazirani.pdf" "Algorithms for Memory Hierarchies- Adavanced Lectures/" "Algorithms and Programming 2nd Ed - Problems and Solutions - Alexander Shen (2010).pdf" "Algorithms - Sanjoy Dasgupta, Christos H. Papadimitriou, and Umesh V. Vazirani (2006).pdf" "algorithmics-theory-and-practice.pdf" "Algorithmic Game Theory-Nisan.pdf" "Algorithm Design - Jon Kleinberg and Eva Tardos, Tsinghua University Press (2005).pdf" "Algorithm Design (Kleinberg Tardos 2005) - Solutions.zip" "Algorithm Design (Kleinberg Tardos 2005) - Solutions/" "algo-ar/" "akrabazzi.pdf" "AdvAlgo-tel-aviv/" "a16-drmota.pdf" "A1.pdf" "A Course In Combinatorial Optimization.pdf" "[Udi_Manber]_Introduction_to_Algorithms_A_Creativ(BookZZ.org).djvu" "[Robert_Endre_Tarjan]_Data_Structures_and_Network_(BookZZ.org).pdf" "[George_Pólya,_Robert_E._Tarjan,_Donald_R._Woods_(BookZZ.org).pdf" "99-recurrences.pdf" "88020-max flow.pdf" "61963.pdf" "6150-hw2.tex" "6150-hw2.synctex.gz" "6150-hw2.pdf" "6150-hw2.log" "6150-hw2.aux" "6150-hw1.tex" "6150-hw1.synctex.gz" "6150-hw1.pdf" "6150-hw1.log" "6150-hw1.aux" "5.tex" "5.pdf" "420lects.pdf" "4.tex" "4.pdf" "3-greedy.log" "3-greedy.fls" "3-greedy.fdb_latexmk" "3-greedy.aux" "3-greedy-solution.pdf" "3-greedy-questions.pdf" "286.cuttingcloth.pdf" "26-faster strongly polynomial.pdf" "2012MaxFlow-2.ppt" "2012MaxFlow-1.ppt" "2012lecnotes-maryland.pdf" "2012hw6algo.pdf" "2-dp.synctex.gz" "2-dp.log" "2-dp.aux" "2-dp-solution.pdf" "2 ENG.pdf" "19_lec.pdf" "19_add_notes.pdf" "18_notes.pdf" "18_lec.pdf" "18-allocation-advanced.pdf" "147702129-Introduction-to-Graph-Theory.pdf" "13.pdf" "120 Guide to Greedy Algorithms.pdf" "10.1.1.39.1636.pdf" "1-s2.0-0166218X94000093-main.pdf" "1-s2.0-0012365X79900682-main.pdf" "1-recurrence.tex" "1-recurrence.pdf" "1-recurrence-sample.pdf" "07maxflow-applications.pdf" "05-dynprog.pdf" "01-recursion.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/u0742161/" (21636 58390 0 0) "README.md" "final-project/" "a2/" "a1/" ".git/" "../" "./")
+
+ ("/Users/chitradeep/TransferFunctions/" (21648 46383 0 0) "VolumeRenderer.java" "ViewController3D.java" "TransferFunctions.pde" "output/" "data/" "Controls.java" "code/" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/Documents/TransferFunctions/" (21648 27595 0 0) "VolumeRenderer.java" "ViewController3D.java" "TransferFunctions.pde" "output/" "data/" "Controls.java" "code/" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/.emacs.d/elpa/processing-mode-20141016.1321/" (21642 30079 0 0) "processing-mode.elc" "processing-mode.el" "processing-mode-pkg.el" "processing-mode-autoloads.el" "../" "./")
+
+ ("/Users/chitradeep/.emacs.d/elpa/" (21642 30079 0 0) "shm-20141011.508/" "scala-mode2-20141105.514/" "processing-mode-20141016.1321/" "haskell-mode-20141111.109/" "ghc-20141102.1545/" "flx-readme.txt" "flx-ido-readme.txt" "flx-ido-20140821.2033/" "flx-20140921.739/" "expand-region-20140610.1519/" "exec-path-from-shell-20140731.907/" "epc-readme.txt" "company-ghc-20141112.741/" "company-20141108.1756/" "color-theme-sanityinc-tomorrow-readme.txt" "color-theme-sanityinc-tomorrow-20141109.451/" "color-theme-sanityinc-solarized-readme.txt" "auctex-latexmk-20140904.1918/" "auctex-11.88/" "archives/" "ace-jump-mode-readme.txt" "ace-jump-mode-20140616.115/" ".DS_Store" "../" "./")
+
+ ("/Users/chitradeep/.emacs.d/" (21648 944 0 0) "theme_set.el" "processing_set.el" "misc_setting.el" "keybinding.el" "init.el" "ido_set.el" "ido.last" "haskell_set.el" "elpa/" "auto-save-list/" "auctex_set.el" "../" "./")
+
+ ("/Users/" (21642 23175 0 0) "Shared/" "Guest/" "chitradeep/" ".localized" "../" "./")
+
+ ("/Users/chitradeep/Documents/" (21647 60413 0 0) "TransferFunctions/" "Processing/" ".localized" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
